@@ -1,0 +1,8 @@
+npm install -g create-react-app
+create-react-app lecture-4-marvel
+npm install
+
+
+pokeapi.co
+
+
